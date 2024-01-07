@@ -1,2 +1,2 @@
-# Training
-Juste to train on how to create repos and stuff like that
+# the training file 
+this is a paragraph text
